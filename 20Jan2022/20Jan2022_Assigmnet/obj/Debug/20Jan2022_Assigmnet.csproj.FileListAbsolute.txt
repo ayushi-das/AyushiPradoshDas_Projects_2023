@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\bin\Debug\20Jan2022_Assigmnet.exe.config
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\bin\Debug\20Jan2022_Assigmnet.exe
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\bin\Debug\20Jan2022_Assigmnet.pdb
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\obj\Debug\20Jan2022_Assigmnet.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\obj\Debug\20Jan2022_Assigmnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\obj\Debug\20Jan2022_Assigmnet.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\obj\Debug\20Jan2022_Assigmnet.exe
+C:\Users\KIIT\Desktop\.NET\20Jan2022\20Jan2022_Assigmnet\obj\Debug\20Jan2022_Assigmnet.pdb

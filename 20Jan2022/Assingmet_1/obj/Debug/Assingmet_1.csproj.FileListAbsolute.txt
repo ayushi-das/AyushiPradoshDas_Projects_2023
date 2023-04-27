@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\bin\Debug\Assingmet_1.exe.config
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\bin\Debug\Assingmet_1.exe
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\bin\Debug\Assingmet_1.pdb
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\obj\Debug\Assingmet_1.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\obj\Debug\Assingmet_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\obj\Debug\Assingmet_1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\obj\Debug\Assingmet_1.exe
+C:\Users\KIIT\Desktop\.NET\20Jan2022\Assingmet_1\obj\Debug\Assingmet_1.pdb
