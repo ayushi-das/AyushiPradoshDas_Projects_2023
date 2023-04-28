@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\bin\Debug\24Jan2022.exe.config
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\bin\Debug\24Jan2022.exe
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\bin\Debug\24Jan2022.pdb
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\obj\Debug\24Jan2022.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\obj\Debug\24Jan2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\obj\Debug\24Jan2022.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\obj\Debug\24Jan2022.exe
+C:\Users\KIIT\Desktop\.NET\OOPs\24Jan2022\obj\Debug\24Jan2022.pdb

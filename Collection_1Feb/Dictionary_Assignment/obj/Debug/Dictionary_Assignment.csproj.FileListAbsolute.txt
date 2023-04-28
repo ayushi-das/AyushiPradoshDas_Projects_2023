@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\bin\Debug\Dictionary_Assignment.exe.config
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\bin\Debug\Dictionary_Assignment.exe
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\bin\Debug\Dictionary_Assignment.pdb
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\obj\Debug\Dictionary_Assignment.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\obj\Debug\Dictionary_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\obj\Debug\Dictionary_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\obj\Debug\Dictionary_Assignment.exe
+C:\Users\KIIT\Desktop\.NET\Collection_1Feb\Dictionary_Assignment\obj\Debug\Dictionary_Assignment.pdb

@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\bin\Debug\Assignment_OOPs.exe.config
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\bin\Debug\Assignment_OOPs.exe
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\bin\Debug\Assignment_OOPs.pdb
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\obj\Debug\Assignment_OOPs.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\obj\Debug\Assignment_OOPs.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\obj\Debug\Assignment_OOPs.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\obj\Debug\Assignment_OOPs.exe
+C:\Users\KIIT\Desktop\.NET\OOPs\Assignment_OOPs\obj\Debug\Assignment_OOPs.pdb
