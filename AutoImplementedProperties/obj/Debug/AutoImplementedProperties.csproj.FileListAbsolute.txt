@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.exe.config
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.exe
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\bin\Debug\AutoImplementedProperties.pdb
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.exe
+F:\CapGeminiDotnet\OOPsPrj\AutoImplementedProperties\obj\Debug\AutoImplementedProperties.pdb

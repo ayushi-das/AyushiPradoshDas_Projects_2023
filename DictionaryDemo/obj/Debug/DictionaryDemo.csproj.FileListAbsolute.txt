@@ -1,0 +1,7 @@
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

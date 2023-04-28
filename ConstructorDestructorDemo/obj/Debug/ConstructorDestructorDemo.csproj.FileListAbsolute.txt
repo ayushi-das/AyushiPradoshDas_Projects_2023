@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\bin\Debug\ConstructorDestructorDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\bin\Debug\ConstructorDestructorDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\bin\Debug\ConstructorDestructorDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\obj\Debug\ConstructorDestructorDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\obj\Debug\ConstructorDestructorDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\obj\Debug\ConstructorDestructorDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\obj\Debug\ConstructorDestructorDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ConstructorDestructorDemo\obj\Debug\ConstructorDestructorDemo.pdb

@@ -1,0 +1,7 @@
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\bin\Debug\HashtableDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\bin\Debug\HashtableDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\bin\Debug\HashtableDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\obj\Debug\HashtableDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\obj\Debug\HashtableDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\obj\Debug\HashtableDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\HashtableDemo\obj\Debug\HashtableDemo.pdb
