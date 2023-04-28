@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: BooksConsoleUIApp, Configuration: Debug Any CPU ------
+1>  BooksConsoleUIApp -> C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.exe
+========== Build: 1 succeeded, 0 failed, 3 up-to-date, 0 skipped ==========

@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\bin\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\bin\Debug\CRUDOperationsBooksProj.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\obj\Debug\CRUDOperationsBooksProj.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\obj\Debug\CRUDOperationsBooksProj.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\obj\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\CRUDOperationsBooksProj\obj\Debug\CRUDOperationsBooksProj.pdb

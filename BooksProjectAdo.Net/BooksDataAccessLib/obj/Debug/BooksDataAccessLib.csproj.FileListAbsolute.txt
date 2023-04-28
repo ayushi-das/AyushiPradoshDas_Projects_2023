@@ -1,0 +1,18 @@
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\BooksDataAccessLib.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\CRUDOperationsBooksProj.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.CopyComplete
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\BooksDataAccessLib.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\bin\Debug\CRUDOperationsBooksProj.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.csproj.CopyComplete
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksDataAccessLib\obj\Debug\BooksDataAccessLib.pdb

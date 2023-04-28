@@ -1,0 +1,30 @@
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.exe.config
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.exe
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksBusinessLib.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksBusinessLib.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\CRUDOperationsBooksProj.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.CopyComplete
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.exe
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.pdb
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\CSPrjs\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksDataAccessLib.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.exe.config
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.exe
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksConsoleUIApp.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksBusinessLib.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\CRUDOperationsBooksProj.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksDataAccessLib.dll
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksBusinessLib.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\CRUDOperationsBooksProj.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\bin\Debug\BooksDataAccessLib.pdb
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.csproj.CopyComplete
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.exe
+C:\Users\KIIT\Desktop\Capgemini\ADO Assignments\BooksProjectAdo.Net\BooksConsoleUIApp\obj\Debug\BooksConsoleUIApp.pdb
